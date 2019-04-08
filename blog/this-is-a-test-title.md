@@ -1,5 +1,5 @@
 ---
-path: gallant-bardeen-8fb87b.netlify.com/blog/my-first-blog
+path: /blog/my-first-post
 date: 2019-04-08T04:55:10.437Z
 title: This is a test title
 ---
